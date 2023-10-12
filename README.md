@@ -36,7 +36,7 @@ and in the first message describe you and your experience and expectations. Then
 Just `FORK` the repo for your community, whatever it is. This framork will work for any type of craftsmanship. It is done the way to be independent of activities.
 
 When forked, be sure your `LABELS` at `Issues` are the same as here or below. It is important to keep the framework operating right.
-![obraz](https://github.com/achoruzy/mentoree/assets/78098930/6abba166-8500-42bb-a22e-31afca23eb29)
+![labels](/assets/labels.png)
 
 ### Contribution
 Labels `documentation`, `enhancement` and `question` are for people who wants to contribute to the framework or to their community's mentoree fork.
