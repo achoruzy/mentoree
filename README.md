@@ -8,7 +8,7 @@ Mentoree is an open framework for easily managing local communities in matter of
 ### The idea
 Randomly finding a mentor is always a pain but offering mentoring isn't much better.
 
-It is hard to find, hard to ask, difficult to match with others at many levels. That's why this framework is created. To help people find right mentors and mentorees.
+It is hard to find, hard to ask, difficult to match with others at many levels. That's why this framework is created. To help people find right mentors and apprentices.
 
 The idea is simple. Add an issue, follow `THE RULES` and wait for someone to connect.
 
@@ -21,14 +21,14 @@ The idea is simple. Add an issue, follow `THE RULES` and wait for someone to con
 ### How to use it if you look for a mentor
 Create an issue titeled with the template below:
 
-`template` with label `I'm looking for a mentor`
+Template: `Apprentice in <your main learning expectation>` (eg. "Apprentice in Python, Webdev") with the label `I'm looking for a mentor`
 
 and in the first message describe you and your experience and expectations. Then wait for people responses and find a mentor for you. You choose the one!
 
 ### How to use it if you're offering mentoring
 Create an issue titeled with the template below:
 
-`template` with label `I'm offering mentoring`
+Template: `Mentor in <your main mentoring expectation>` (eg. "Mentor in SecOps") with the label `I'm offering mentoring`
 
 and in the first message describe you and your experience and expectations. Then wait for people responses and find a mentoree for you. You choose the one!
 
